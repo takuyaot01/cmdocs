@@ -54,7 +54,7 @@ Fall Creators Update は実はアップデートされているが、すぐ変�
 | | Title | Ver | File |
 | ---- | ---- | ---- | ---- |
 | ★ | Configuration Manager (CB) 評価ガイド - 機能紹介とアーキテクチャ編 | v2.0 | [SCCM_Architect_EvalGuide_jp_v2.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_Architect_EvalGuide_jp_v2.0.docx) |
-| ★ | Configuration Manager (CB) 評価ガイド - 環境構築編 | v1.1 | [SCCM_CB_EvalGuide_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/ra/main/SCCM_CB_EvalGuide_jp_v1.1.docx) |
+| ★ | Configuration Manager (CB) 評価ガイド - 環境構築編 | v1.1 | [SCCM_CB_EvalGuide_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_CB_EvalGuide_jp_v1.1.docx) |
 | ★ | Configuration Manager (CB) 評価ガイド - Office 365 ProPlus 展開・アップデート編 | v2.0 | [SCCM_EvalGuide_O365ProPlus_jp_v2.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_O365ProPlus_jp_v2.0.docx)
 | ★ | Configuration Manager (CB) 評価ガイド - Windows 10 管理編 | v2.0 | [SCCM_EvalGuide_Win10_Management_jp_v2.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v2.0.docx) |
 <br>
