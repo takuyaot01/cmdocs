@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <strong>構築から運用、クラウド連携まで。日本語のガイド。</strong>
-</p>
-
-<p align="center">
   <a href="#guides">主要ガイド</a> &nbsp; / &nbsp;
   <a href="#archive">更新履歴・過去版</a> &nbsp; / &nbsp;
   <a href="#session">動画・スライド</a>
