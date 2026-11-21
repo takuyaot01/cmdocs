@@ -1,60 +1,122 @@
-# Configuration Manager 評価ガイド待避所
+<h1 align="center">
+  <img src="./assets/readme-banner.png" alt="Configuration Manager 評価ガイド" width="1200">
+</h1>
 
-ここでは諸事情により公式サイトが消滅してしまった「Configuration Manager 評価ガイド」の一時待避所です。<br>
-こちらにファイルを保管しておきますが、公式サイトが復活したらご案内します。
-<br>
-<br>
-## Configuration Manager 評価ガイドとは？
-日本マイクロソフト企画・監修のもと[国井さん](https://azuread.net/)に協力いただき作成しているガイドになります。<br>
-非常に複雑な Configuration Manager の構築において、とてもとても有用なドキュメントですが、現在公式サイトが消失しております。<br>
-<br>
-<br>
+<p align="center">
+  <strong>構築から運用、クラウド連携まで。日本語のガイド。</strong>
+</p>
 
-### 2020 年 3 月更新分
-| | Title | Ver | File |
-| ---- | ---- | ---- | ---- |
-| ★ | Configuration Manager (CB) 評価ガイド - クラウド管理ゲートウェイ編 | v1.1 | [MECM_EvalGuide_CMG_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_CMG_jp_v1.1.docx) |
-| ★ | Configuration Manager (CB) 評価ガイド - Microsoft Defender 管理編 | v1.1 | [MECM_EvalGuide_Defender_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Defender_jp_v1.1.docx) |
-| ★ | Configuration Manager (CB) 評価ガイド - Windows 10 更新プログラム管理編 | v1.0 | [MECM_EvalGuide_Update_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Update_jp_v1.0.docx) |
+<p align="center">
+  <a href="#guides">主要ガイド</a> &nbsp; / &nbsp;
+  <a href="#archive">更新履歴・過去版</a> &nbsp; / &nbsp;
+  <a href="#session">動画・スライド</a>
+</p>
 
-### 2019 年 3 月更新分
-| | Title | Ver | File |
-| ---- | ---- | ---- | ---- |
-| ★ | Configuration Manager (CB) 評価ガイド - SCCM - Intune 共同管理編 | v1.0 | [SCCM_EvalGuide_Co-Management_jp_v1.0.doc](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Co-Management_jp_v1.0.docx) |
-| |Configuration Manager (CB) 評価ガイド - クラウド管理ゲートウェイ編 | v1.0 | [SCCM_EvalGuide_CMG_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_CMG_jp_v1.0.docx) |
-| | Configuration Manager (CB) 評価ガイド - Windows 10 更新プログラム管理編 | v1.0 | [SCCM_EvalGuide_Update_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Update_jp_v1.0.docx) |
+---
 
-### 2018 年 3 月更新分
-| | Title | Ver | File |
-| ---- | ---- | ---- | ---- |
-| | Configuration Manager (CB) 評価ガイド - Windows 10 機能管理編 for Fall Creators Update | v1.0 | [SCCM_EvalGuide_Win10_UpToDate_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_UpToDate_jp_v1.0.docx) |
+## このリポジトリについて
 
-### 2017 年 12 月更新分
-| | Title | Ver | File |
-| ---- | ---- | ---- | ---- |
-| ★ | Configuration Manager (CB) 評価ガイド - 機能紹介とアーキテクチャ編 | v2.0 | [SCCM_Architect_EvalGuide_jp_v2.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_Architect_EvalGuide_jp_v2.0.docx) |
-| ★ | Configuration Manager (CB) 評価ガイド - 環境構築編 | v1.1 | [SCCM_CB_EvalGuide_jp_v1.1.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_CB_EvalGuide_jp_v1.1.docx) |
-| ★ | Configuration Manager (CB) 評価ガイド - Office 365 ProPlus 展開・アップデート編 | v2.0 | [SCCM_EvalGuide_O365ProPlus_jp_v2.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_O365ProPlus_jp_v2.0.docx)
-| ★ | Configuration Manager (CB) 評価ガイド - Windows 10 管理編 | v2.0 | [SCCM_EvalGuide_Win10_Management_jp_v2.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v2.0.docx) |
+日本マイクロソフトの企画・監修のもと、[国井さん](https://azuread.net/)の協力により作成された **Configuration Manager (CB) 評価ガイド**を保管しています。機能やアーキテクチャの理解から環境構築、デバイス管理まで、評価・検証に役立つ日本語のドキュメントです。
 
-### 2017 年 3 月更新分
-| | Title | Ver | File |
-| ---- | ---- | ---- | ---- |
-| | Configuration Manager (CB) 評価ガイド - 機能紹介とアーキテクチャ編 | v1.0 | [System_Center_Configuration_Manager_EvalGuide_Architecture_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/System_Center_Configuration_Manager_EvalGuide_Architecture_jp_v1.0.docx) |
-| | Configuration Manager (CB) 評価ガイド - 環境構築編 | v1.0 | [SCCM_CB_EvalGuide_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_CB_EvalGuide_jp_v1.0.docx) |
-| | Configuration Manager (CB) 評価ガイド - モバイル デバイス展開編 | v1.0 | [SCCM_EvalGuide_Intune_Integration_Deployment_jp.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Intune_Integration_Deployment_jp.docx) |
-| | Configuration Manager (CB) 評価ガイド - モバイル デバイス運用管理編 | v1.0 | [SCCM_EvalGuide_Intune_Integration_Management_jp.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Intune_Integration_Management_jp.docx) |
-| | Configuration Manager (CB) 評価ガイド - Office 365 ProPlus 編 | v1.0 | [SCCM_EvalGuide_O365ProPlus_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_O365ProPlus_jp_v1.0.docx) |
-| | Configuration Manager (CB) 評価ガイド - Windows 10 管理編 | v1.0 | [SCCM_EvalGuide_Win10_Management_jp_v1.0.docx](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v1.0.docx) |
-<br>
+> 資料は公開当時の製品名・バージョンに基づいています。現在の仕様とは異なる場合があるため、評価・検証用の参考資料としてご利用ください。
 
-## おまけ - イベント動画
-2018 年の Tech Summit イベントのものですが、当時の SCCM の最新情報ということでご案内したセッションになります。
+<a id="guides"></a>
 
-[<img src="https://img.youtube.com/vi/U8CUI3NJEfE/0.jpg">](https://youtu.be/U8CUI3NJEfE)<br>
+## 主要ガイド
 
-YouTube : [[SCCM 友の会] System Center Configuration Manager この秋おさえておきたい最新機能!](https://youtu.be/U8CUI3NJEfE)<br>
-PDF : [[TS18] PR25  [SCCM 友の会] System Center Configuration Manager この秋おさえておきたい最新機能.pdf](https://github.com/takuyaot01/cmdocs/blob/main/%5BTS18%5D%20PR25%20%20%5BSCCM%20%E5%8F%8B%E3%81%AE%E4%BC%9A%5D%20System%20Center%20Configuration%20Manager%20%E3%81%93%E3%81%AE%E7%A7%8B%E3%81%8A%E3%81%95%E3%81%88%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E6%9C%80%E6%96%B0%E6%A9%9F%E8%83%BD.pdf)
+まずはこちらから。目的に合ったガイドを **Word 形式**（.docx）でダウンロードできます。
 
-以上です。
+### 設計・構築
+
+| ガイド | バージョン | 更新 | ダウンロード |
+| :--- | :---: | :---: | :---: |
+| **機能紹介とアーキテクチャ** | v2.0 | 2017 年 12 月 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_Architect_EvalGuide_jp_v2.0.docx) |
+| **環境構築** | v1.1 | 2017 年 12 月 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_CB_EvalGuide_jp_v1.1.docx) |
+
+### 運用・クラウド連携
+
+| ガイド | バージョン | 更新 | ダウンロード |
+| :--- | :---: | :---: | :---: |
+| **クラウド管理ゲートウェイ** | v1.1 | 2020 年 3 月 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_CMG_jp_v1.1.docx) |
+| **Microsoft Defender 管理** | v1.1 | 2020 年 3 月 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Defender_jp_v1.1.docx) |
+| **Windows 10 更新プログラム管理** | v1.0 | 2020 年 3 月 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Update_jp_v1.0.docx) |
+| **SCCM - Intune 共同管理** | v1.0 | 2019 年 3 月 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Co-Management_jp_v1.0.docx) |
+| **Office 365 ProPlus 展開・アップデート** | v2.0 | 2017 年 12 月 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_O365ProPlus_jp_v2.0.docx) |
+| **Windows 10 管理** | v2.0 | 2017 年 12 月 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v2.0.docx) |
+
+<a id="archive"></a>
+
+## 更新履歴・過去版
+
+公開時期ごとの資料一覧です。過去版やモバイル デバイス管理のガイドも、こちらから参照できます。
+
+<details>
+<summary><strong>更新履歴を開く（2017–2020 年）</strong></summary>
+
+### 2020 年 3 月
+
+| ガイド | バージョン | ダウンロード |
+| :--- | :---: | :---: |
+| クラウド管理ゲートウェイ | v1.1 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_CMG_jp_v1.1.docx) |
+| Microsoft Defender 管理 | v1.1 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Defender_jp_v1.1.docx) |
+| Windows 10 更新プログラム管理 | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/MECM_EvalGuide_Update_jp_v1.0.docx) |
+
+### 2019 年 3 月
+
+| ガイド | バージョン | ダウンロード |
+| :--- | :---: | :---: |
+| SCCM - Intune 共同管理 | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Co-Management_jp_v1.0.docx) |
+| クラウド管理ゲートウェイ | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_CMG_jp_v1.0.docx) |
+| Windows 10 更新プログラム管理 | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Update_jp_v1.0.docx) |
+
+### 2018 年 3 月
+
+| ガイド | バージョン | ダウンロード |
+| :--- | :---: | :---: |
+| Windows 10 機能管理 for Fall Creators Update | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_UpToDate_jp_v1.0.docx) |
+
+### 2017 年 12 月
+
+| ガイド | バージョン | ダウンロード |
+| :--- | :---: | :---: |
+| 機能紹介とアーキテクチャ | v2.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_Architect_EvalGuide_jp_v2.0.docx) |
+| 環境構築 | v1.1 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_CB_EvalGuide_jp_v1.1.docx) |
+| Office 365 ProPlus 展開・アップデート | v2.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_O365ProPlus_jp_v2.0.docx) |
+| Windows 10 管理 | v2.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v2.0.docx) |
+
+### 2017 年 3 月
+
+| ガイド | バージョン | ダウンロード |
+| :--- | :---: | :---: |
+| 機能紹介とアーキテクチャ | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_Architect_EvalGuide_jp_v1.0.docx) |
+| 環境構築 | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_CB_EvalGuide_jp_v1.0.docx) |
+| モバイル デバイス展開 | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Intune_Integration_Deployment_jp.docx) |
+| モバイル デバイス運用管理 | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Intune_Integration_Management_jp.docx) |
+| Office 365 ProPlus | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_O365ProPlus_jp_v1.0.docx) |
+| Windows 10 管理 | v1.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v1.0.docx) |
+
+</details>
+
+<a id="session"></a>
+
+## 動画・スライド
+
+### Tech Summit 2018 · SCCM 友の会
+
+**System Center Configuration Manager この秋おさえておきたい最新機能!**
+
+2018 年の Tech Summit で、当時の SCCM の最新機能を紹介したセッションです。
+
+<a href="https://youtu.be/U8CUI3NJEfE">
+  <img src="https://img.youtube.com/vi/U8CUI3NJEfE/0.jpg" alt="Tech Summit 2018：SCCM 友の会のセッションを YouTube で見る" width="480">
+</a>
+
+**[YouTube で見る →](https://youtu.be/U8CUI3NJEfE)** · **[スライドを読む（PDF）→](https://github.com/takuyaot01/cmdocs/blob/main/%5BTS18%5D%20PR25%20%20%5BSCCM%20%E5%8F%8B%E3%81%AE%E4%BC%9A%5D%20System%20Center%20Configuration%20Manager%20%E3%81%93%E3%81%AE%E7%A7%8B%E3%81%8A%E3%81%95%E3%81%88%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E6%9C%80%E6%96%B0%E6%A9%9F%E8%83%BD.pdf)**
+
+---
+
+<p align="center">
+  <a href="https://takuyaot01.github.io/">Website</a> &nbsp; / &nbsp;
+  <a href="https://github.com/takuyaot01">GitHub</a>
+</p>
 
