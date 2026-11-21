@@ -100,6 +100,10 @@
 
 ### Configuration Manager 概要
 
+<a href="https://www.docswell.com/s/takuyaot/ZGXWR9-ConfigMgr">
+  <img src="./assets/configmgr-overview-cover.png" alt="ナガシヨミ Microsoft 365 - Microsoft Configuration Manager 概要をドクセルで読む" width="480">
+</a>
+
 **[ナガシヨミ Microsoft 365 - Microsoft Configuration Manager 概要](https://www.docswell.com/s/takuyaot/ZGXWR9-ConfigMgr)**
 
 ### Tech Summit 2018 · SCCM 友の会
