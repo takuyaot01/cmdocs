@@ -79,6 +79,7 @@
 | 環境構築 | v1.1 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_CB_EvalGuide_jp_v1.1.docx) |
 | Office 365 ProPlus 展開・アップデート | v2.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_O365ProPlus_jp_v2.0.docx) |
 | Windows 10 管理 | v2.0 | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_Management_jp_v2.0.docx) |
+| Windows 10 機能管理 for Fall Creators Update | v1.0（ファイル名は v1.1） | [Word ↓](https://github.com/takuyaot01/cmdocs/raw/main/SCCM_EvalGuide_Win10_UpToDate_jp_v1.1.docx) |
 
 ### 2017 年 3 月
 
