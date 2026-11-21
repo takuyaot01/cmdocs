@@ -97,6 +97,10 @@
 
 ## 動画・スライド
 
+### Configuration Manager 概要
+
+**[ナガシヨミ Microsoft 365 - Microsoft Configuration Manager 概要](https://www.docswell.com/s/takuyaot/ZGXWR9-ConfigMgr)**
+
 ### Tech Summit 2018 · SCCM 友の会
 
 **System Center Configuration Manager この秋おさえておきたい最新機能!**
